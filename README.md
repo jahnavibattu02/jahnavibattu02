@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jahnavibattu2002@gmail.com**
 
-- ⚡ Fun fact **Love to Learn new things in my Life**
+- ⚡ Fun fact **I'm Crazy**
 
 - 🎯 2022 Goals: **Contribute more to Open Source Projects**
 
