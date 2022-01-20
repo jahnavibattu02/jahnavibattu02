@@ -1,26 +1,38 @@
-### Hi there 👋
-**_JAHNAVI PRAVALEEKA BATTU_**  
-I am a Student at IIIT-Kalyani, Pursuing B.Tech in Computer Science.
-- 🔭 I’m currently working on Machine Learning Projects.
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 👯 I’m looking to collaborate on Projects related to ML/DL.
-- 🤔 I’m looking for help with Interships and Projects.
-- 💬 Ask me about Python, ML and DL.
-- 📫 How to reach me: [Email](jahnavibattu2002@gmail.com) or  [LinkedIn](https://www.linkedin.com/in/jahnavi-pravaleeka-battu)
-- 😄 Pronouns: She/Her
-- ⚡ Fun Fact : I Love to Learn new things in my Life...
+<h1 align="center">Hi 👋, I'm Jahnavi Pravaleeka</h1>
+<h3 align="center">A passionate Data Science Enthusiastic from India</h3>
 
-<!--
-**jahnavibattu02/jahnavibattu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **Data Science projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **Internships**
+
+- 💬 Ask me about **Machine Learning and Deep Learning**
+
+- 📫 How to reach me **jahnavibattu2002@gmail.com**
+
+- ⚡ Fun fact **Love to Learn new things in my Life**
+
+- 🎯 2022 Goals: **Contribute more to Open Source Projects**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavibattu02&" alt="jahnavibattu02" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnavibattu02&show_icons=true&locale=en&layout=compact" alt="jahnavibattu02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahnavibattu02&show_icons=true&locale=en" alt="jahnavibattu02" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/jahnavipravaleekabattu-81489121a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jahnavipravaleekabattu-81489121a" height="30" width="40" /></a>
+<a href="https://kaggle.com/jahnavipravaleeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jahnavipravaleeka" height="30" width="40" /></a>
+<a href="https://instagram.com/_.jahnavibattu._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.jahnavibattu._" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jahnavibattu_3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jahnavibattu_3" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Profile Views</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavibattu02&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavibattu02" /> </p>
+
