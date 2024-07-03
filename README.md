@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jahnavi Pravaleeka</h1>
+<h1 align="center">Hi 👋, I'm Jahnavi Pravaleeka Battu</h1>
 <h3 align="center">A passionate Data Science Enthusiastic from India</h3>
 
 
