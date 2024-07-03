@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jahnavibattu2002@gmail.com**
 
-- 🎯 2022 Goals: **Contribute more to Open Source Projects**
+- 🎯 2024 Goals: **Contribute more to Open Source Projects**
 
 - ⚡ Fun fact **I'm Crazy**
 
