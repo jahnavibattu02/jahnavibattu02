@@ -19,7 +19,7 @@
   <a href="mailto:jahnavibattu2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-jahnavibattu2002%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jahnavipravaleekabattu-81489121a" target="_blank">
+  <a href="https://www.linkedin.com/in/jahnavi-b-8005873b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jahnavi%20Battu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/jahnavibattu02" target="_blank">
