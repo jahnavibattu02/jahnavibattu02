@@ -1,6 +1,6 @@
 <!-- Header Banner (Fixed Name Visibility) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&fontSize=44&text=Hi%20%F0%9F%91%8B%20I'm%20Jahnavi%20Pravaleeka%20Battu&fontAlign=50&fontAlignY=38&color=gradient&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Engineering%20Enthusiast&descAlign=50&descAlignY=64" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&fontSize=44&text=Hi%20%F0%9F%91%8B%20I'm%20Jahnavi%20Battu&fontAlign=50&fontAlignY=38&color=gradient&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Engineering%20Enthusiast&descAlign=50&descAlignY=64" />
 </p>
 
 
