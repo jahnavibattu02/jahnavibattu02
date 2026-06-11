@@ -1,26 +1,25 @@
-<!-- Header Banner (Fixed Name Visibility) -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&fontSize=44&text=Hi%20%F0%9F%91%8B%20I'm%20Jahnavi%20Battu&fontAlign=50&fontAlignY=38&color=gradient&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Engineering%20Enthusiast&descAlign=50&descAlignY=64" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&fontSize=42&fontAlign=50&fontAlignY=38&color=gradient&text=Jahnavi%20Pravaleeka%20Battu&desc=Generative%20AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20LLM%20Engineer&descAlign=50&descAlignY=64" />
 </p>
-
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=800&lines=M.S.+in+Data+Science+%40+SUNY+Buffalo+(GPA%3A+3.60);Machine+Learning+Engineer+Intern+%40+Vosyn;I+build+end-to-end+ML+%26+Data+Pipelines;Open+to+Relocate+%7C+Full-time+%26+Internship+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;Machine+Learning+Engineer;LLM+%26+RAG+Specialist;LangChain+%7C+LlamaIndex+%7C+OpenAI;Building+Production+Ready+AI+Applications;Open+to+Full-Time+Opportunities" />
 </p>
 
 <p align="center">
-  🎓 <b>M.S. in Data Science</b>, SUNY Buffalo (GPA: <b>3.60</b>) <br/>
-  💼 <b>Machine Learning Engineer Intern</b> @ Vosyn <br/>
-  📍 Open to relocate | Open to full-time & internship roles
+  🤖 <b>Generative AI Engineer</b> | <b>Machine Learning Engineer</b> <br/>
+  🧠 LLMs • RAG • NLP • Machine Learning <br/>
+  📍 United States | Open to Full-Time Opportunities
 </p>
 
 <p align="center">
-  <a href="mailto:jahnavibattu2002@gmail.com">
+  <a href="mailto:jahnavibattu25@gmail.com">
     <img src="https://img.shields.io/badge/Email-jahnavibattu2002%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jahnavi-b-8005873b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jahnavi%20Battu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jahnavibattu-8149121c/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jahnavi%20Pravaleeka%20Battu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/jahnavibattu02" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-jahnavibattu02-111?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,13 +31,18 @@
 </p>
 
 ## 👩‍💻 About Me
-I’m a data professional with hands-on experience across **Machine Learning, Deep Learning, NLP, and scalable data pipelines**.  
-I enjoy building **end-to-end systems** — from raw data ingestion to model evaluation, deployment, and analytics.
 
-- 🔍 Experience with **ML model evaluation, CI/CD, and cloud-scale data**
-- ⚙️ Strong foundation in **Data Engineering (ETL, Spark, Kafka, Airflow, dbt)**
-- 📊 Background in **Data Analytics** with dashboards and KPI reporting
-- 📝 Co-author of an **IEEE-submitted research paper (ConvLSTM, ERA5 data)**
+I'm a **Generative AI Engineer and Machine Learning Engineer** with experience developing AI solutions across Healthcare and Banking domains.
+
+I specialize in building **LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, NLP solutions, semantic search platforms, and end-to-end machine learning pipelines.**
+
+- 🤖 Building production-ready LLM applications
+- 🔍 Designing Retrieval-Augmented Generation (RAG) systems
+- 🧠 Developing NLP and Document Intelligence solutions
+- ⚡ Creating FastAPI-powered AI services
+- ☁️ Deploying scalable AI solutions on AWS
+- 📊 Developing Machine Learning and Predictive Analytics models
+- 🔗 Implementing Semantic Search and Vector Databases
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
@@ -47,45 +51,60 @@ I enjoy building **end-to-end systems** — from raw data ingestion to model eva
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,sqlite,aws,gcp,docker,linux,git,githubactions,tensorflow,pytorch,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,aws,docker,linux,git,github,tensorflow" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineering-Spark%20%7C%20Kafka%20%7C%20Airflow%20%7C%20dbt-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-Docker%20%7C%20CI%2FCD%20%7C%20Cloud-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML%2FAI-NLP%20%7C%20DL%20%7C%20LLMs-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-GPT%20%7C%20LLaMA%20%7C%20RAG-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Frameworks-LangChain%20%7C%20LlamaIndex-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DB-FAISS%20%7C%20Pinecone-green?style=for-the-badge" />
 </p>
 
-**Languages & Querying**  
-Python · SQL · R · Bash  
+**Generative AI & LLMs**  
+GPT · LLaMA · RAG · Prompt Engineering · LLM Evaluation
 
-**ML / AI**  
-Machine Learning · Deep Learning · NLP · LLMs  
-TensorFlow · PyTorch · Scikit-learn  
+**Frameworks & Libraries**  
+LangChain · LlamaIndex · HuggingFace · Scikit-learn
+
+**Vector Databases & Search**  
+FAISS · Pinecone · Semantic Search · Hybrid Search
+
+**Machine Learning**  
+Classification · Regression · Clustering · XGBoost · Random Forest · Logistic Regression
+
+**Natural Language Processing**  
+NER · Sentiment Analysis · Text Classification · Document Summarization
+
+**Programming**  
+Python · SQL
+
+**Cloud & Deployment**  
+AWS S3 · Lambda · API Gateway · Docker · FastAPI
 
 **Data Engineering**  
-Spark · Kafka · Airflow · dbt · ETL/ELT  
+ETL Pipelines · Data Transformation · Data Validation
 
-**Cloud & MLOps**  
-AWS · GCP · Databricks · Docker · CI/CD  
-
-**Analytics & BI**  
-Tableau · Power BI · QuickSight  
+**Visualization**  
+Power BI · Tableau · Matplotlib
 
 **Databases**  
-PostgreSQL · MySQL · Snowflake · BigQuery  
+MySQL · PostgreSQL
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 </p>
 
-## 🚀 Featured Work
+## 🚀 Featured Expertise
 
-- **MaskGCT TTS Evaluation Pipeline** – Multi-metric evaluation (WER, MOS), CI/CD automation  
-- **Real-time CDC Pipeline** – Debezium + Kafka + Spark Streaming  
-- **Retail Data Platform** – AWS S3, Glue, Athena, Redshift, Airflow, QuickSight  
-- **LLM Resume Reviewer** – Offline LLMs, PDF parsing, ATS scoring  
-- **Deep Audio Classification** – CNNs with Librosa & TensorFlow  
+- 🔹 Enterprise Retrieval-Augmented Generation (RAG) Systems
+- 🔹 LLM-powered Knowledge Assistants
+- 🔹 Semantic Search & Hybrid Retrieval
+- 🔹 Healthcare AI Applications
+- 🔹 Banking & Financial Analytics Solutions
+- 🔹 Fraud Detection & Risk Analytics
+- 🔹 FastAPI-based AI Services
+- 🔹 AWS Cloud AI Deployments
+- 🔹 Machine Learning & Predictive Analytics
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
@@ -102,7 +121,6 @@ PostgreSQL · MySQL · Snowflake · BigQuery
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnavibattu02&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- Optional: trophies (remove if you want minimal) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jahnavibattu02&theme=tokyonight&row=1&column=6" />
 </p>
@@ -112,15 +130,13 @@ PostgreSQL · MySQL · Snowflake · BigQuery
 </p>
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/jahnavipravaleekabattu-81489121a" target="_blank">
+  <a href="https://www.linkedin.com/in/jahnavibattu-8149121c/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="42" />
   </a>
-  <a href="https://kaggle.com/jahnavipravaleeka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="42" />
-  </a>
-  <a href="https://www.codechef.com/users/jahnavibattu_3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="42" />
+  <a href="mailto:jahnavibattu2002@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="42" />
   </a>
 </p>
 
